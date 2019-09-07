@@ -1,5 +1,6 @@
 # weepay Opencart Payment Module 
-![](https://service.weepay.co/form/normal.svg);
+![](https://service.weepay.co/form/normal.svg)
+
 weepay opencart is the simple and lightweight implementation of [weepay.co](https://www.weepay.co) payment service for Opencart. It's licensed under LGPL v3.0 license, therefore feel free to use it in any project or modify the source code.
 
 # Getting Started
