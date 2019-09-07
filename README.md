@@ -33,27 +33,4 @@ weepay opencart is the simple and lightweight implementation of [weepay.co](http
 
 ### Bug report
 
-If you found a repeatable bug, and troubleshooting tips didn't help, then be sure to [search existing issues](https://github.com/weepay/OpenCart/issues) first. Include steps to consistently reproduce the problem, actual vs. expected results, screenshots, and your OpenCart version and Payment module version number. Disable all extensions to verify the issue is a core bug.
-
-#### Editor.md directory
-
-    editor.md/
-            lib/
-            css/
-            scss/
-            tests/
-            fonts/
-            images/
-            plugins/
-            examples/
-            languages/     
-            editormd.js
-            ...
-
-```html
-<!-- English -->
-<script src="../dist/js/languages/en.js"></script>
-
-<!-- 繁體中文 -->
-<script src="../dist/js/languages/zh-tw.js"></script>
-```
+If you found a repeatable bug, and troubleshooting tips didn't help, then be sure to [search existing issues](https://github.com/weepay/OpenCart-2.0/issues) first. Include steps to consistently reproduce the problem, actual vs. expected results, screenshots, and your OpenCart version and Payment module version number. Disable all extensions to verify the issue is a core bug.
