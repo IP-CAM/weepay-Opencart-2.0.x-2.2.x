@@ -17,14 +17,14 @@ weepay opencart is the simple and lightweight implementation of [weepay.co](http
 * Backup your webstore and database
 * Download the source [Opencart 2.0.x Last version releases](https://www.weepay.co), just copy all the files in the zip to your OpenCart directory.
 * Click Extensions tab and Payments subtab in your OpenCart admin panel.
-* ii
-* ii
-* ii
-* ii
-* ii
-* ii
-* ii
-* ii
+* Find weepay extension and install the module. Then click Edit.
+* Get your api keys from weepay merchant [backend](https://www.pos.weepay.co/)
+* Select "Enabled" to activate weepay plugin for your OpenCart.
+* Select Form type "popup" or "responsive" to display form on checkout page.
+* Select Checkout Type "onepage" or "normal" to display form on checkout page.
+* Define alignment number for the payment sort order.(etc 1,2,3...)
+* User on checkout page will find weepay payment extension in payment methods.
+* In order details on admin interface, find "weepay Payment Module" tab in "Order History" section.
 
 
 #### Disabled options
