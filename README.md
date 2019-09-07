@@ -17,14 +17,14 @@ weepay opencart is the simple and lightweight implementation of [weepay.co](http
 * Backup your webstore and database
 * Download the source, just copy all the files in the zip to your OpenCart directory.
 * Click Extensions tab and Payments subtab in your OpenCart admin panel.
-* Find iyzico extension and install the module. Then click Edit.
-* Get your api keys from iyzico merchant backend.
-* Select "Enabled" to activate iyzico plugin for your OpenCart.
-* Select "popup" or "responsive" to display form on checkout page.
-* Define alignment number for the payment sort order.(etc 1,2,3...)
-* User on checkout page will find iyzico payment extension in payment methods.
-* In order details on admin interface, find "iyzico Checkout Form" tab in "Order History" section.
-* From there, admin can Cancel order and/or Full/Partial Refund item.
+* ii
+* ii
+* ii
+* ii
+* ii
+* ii
+* ii
+* ii
 
 
 #### Disabled options
