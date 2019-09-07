@@ -15,7 +15,7 @@ weepay opencart is the simple and lightweight implementation of [weepay.co](http
 
 ## Installation
 * Backup your webstore and database
-* Download the source, just copy all the files in the zip to your OpenCart directory.
+* Download the source [Opencart 2.0.x Last version releases](https://www.weepay.co), just copy all the files in the zip to your OpenCart directory.
 * Click Extensions tab and Payments subtab in your OpenCart admin panel.
 * ii
 * ii
