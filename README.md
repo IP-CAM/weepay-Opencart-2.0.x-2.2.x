@@ -1,4 +1,3 @@
-[TOC]
 # weepay Opencart Payment Module 
   ### Features
   
