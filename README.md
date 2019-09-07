@@ -26,6 +26,11 @@ weepay opencart is the simple and lightweight implementation of [weepay.co](http
 * User on checkout page will find weepay payment extension in payment methods.
 * In order details on admin interface, find "weepay Payment Module" tab in "Order History" section.
 
+#### Notice :
+* PHP 5.6 and later.
+* cURL
+* Opencart 2.0 and later.
+
 
 #### Disabled options
 
