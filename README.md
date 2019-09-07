@@ -1,4 +1,10 @@
 # weepay Opencart Payment Module 
+
+weepay opencart is the simple and lightweight implementation of [weepay.co](https://www.weepay.co) payment service for Opencart. It's licensed under LGPL v3.0 license, therefore feel free to use it in any project or modify the source code.
+
+# Getting Started
+
+
   ### Features
   
   - Supported version  2.0.0.0 - 2.2.0.0;
